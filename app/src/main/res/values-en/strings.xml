@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MozioTest</string>
+    <string name="main_activity_title">Todd’s Syndrome Test</string>
+    <string name="result_activity_title">Todd’s Syndrome Result</string>
+    <string name="action_history">Previous Answer</string>
+    <string name="label_migraine">Have you suffer from migraines in the last year?</string>
+    <string name="label_age">Enter your age</string>
+    <string name="label_gender">Enter your gender</string>
+    <string name="label_substance">Have you use  hallucinogenic drugs in the past year?</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="substance_yes">Yes</string>
+    <string name="substance_no">No</string>
+    <string name="migraines_yes">Yes</string>
+    <string name="migraines_no">No</string>
+    <string name="button_age">Select</string>
+    <string name="button_send">Send</string>
+    <string name="button_select_age">Select Age</string>
+    <string name="age_not_setted">Please, select your age</string>
+    <string name="label_probability_1">You have</string>
+    <string name="label_probability_2">Chances to suffer from Todd’s Syndrome</string>
+    <string name="label_your_answer">These where your answers:</string>
+    <string name="no_history_message">Can not find previous answer</string>
+    <string name="no_history_title">No History</string>
+    <string name="uncomplete_answer_message">Please answer all the questions to continue</string>
+    <string name="uncomplete_answer_title">Missing Answers</string>
+    <string name="label_history">Previous Answer</string>
+    <string name="alert_button">Accept</string>
+</resources>
