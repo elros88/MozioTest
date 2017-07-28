@@ -1,8 +1,8 @@
-#Mozio Test
+# Mozio Test
 
 This app calculate the probability to suffer Todd's Syndrome.
 
-##Features
+## Features
 
 - Calculate the probability based in four parameters.
 - Show the user the probability and the answers.
@@ -13,7 +13,7 @@ This app calculate the probability to suffer Todd's Syndrome.
 - If there is not a previous answers storage the app show an alert preventing to continue.
 - Implemented Unit Test against the app model.
 
-##Switching from local to Rest.
+## Switching from local to Rest.
 
 To change from local to rest it recommended to: 
 
@@ -22,6 +22,6 @@ To change from local to rest it recommended to:
 - Modify the History View to show all the answer given from all user.
 - Add a view to show statictics and graphics based in all the answers.
 
-##Notes:
+## Notes:
 
 - Aplication developed and builded with Android Stuido 3 and Gradle 3.
