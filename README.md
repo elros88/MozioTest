@@ -21,3 +21,7 @@ To change from local to rest it recommended to:
 - Change the model to manage a list of Answers instead a singlr one.
 - Modify the History View to show all the answer given from all user.
 - Add a view to show statictics and graphics based in all the answers.
+
+##Notes:
+
+- Aplication developed and builded with Android Stuido 3 and Gradle 3.
