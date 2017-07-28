@@ -82,7 +82,7 @@ public class Answer
         if(substanceAnswer.equals(Constants.affirmativeAnswer))
             probability += 25;
 
-        return probability.toString() + " %";
+        return probability.toString() + "%";
     }
 
     public boolean checkAnswers()
