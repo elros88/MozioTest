@@ -9,6 +9,8 @@ This app calculate the probability to suffer Todd's Syndrome.
 - Store and Display the previous answers usin the menu.
 - Show a back button in case the device does not have a phisycal one.
 - Use Android Locale to catch the devices language (currently can change the app to English and Spanish).
+- If the all the questions were not answered the app show an alert dialog preventing from continue.
+- If there is not a previous answers storage the app show an alert preventing to continue.
 - Implemented Unit Test against the app model.
 
 ##Switching from local to Rest.
