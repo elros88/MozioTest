@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Prueba de Mozio</string>
+    <string name="main_activity_title">Prueba del Sindrome de Todd</string>
+    <string name="result_activity_title">Resultados del Sindrome de Todd</string>
+    <string name="action_history">Respuesta Anterior</string>
+    <string name="label_migraine">¿Ha sufrido de Migrañas en el último año?</string>
+    <string name="label_age">Introduzca su edad</string>
+    <string name="label_gender">Introduzca su genero</string>
+    <string name="label_substance">¿Ha utilizado drogas alucinogenas en el ultimo año?</string>
+    <string name="gender_male">Masculino</string>
+    <string name="gender_female">Femenino</string>
+    <string name="substance_yes">Si</string>
+    <string name="substance_no">No</string>
+    <string name="migraines_yes">Si</string>
+    <string name="migraines_no">No</string>
+    <string name="button_age">Seleccionar</string>
+    <string name="button_send">Enviar</string>
+    <string name="button_select_age">Seleccionar Edad</string>
+    <string name="age_not_setted">Por favor, introduzca su edad</string>
+    <string name="label_probability_1">Tiene</string>
+    <string name="label_probability_2">de probabilidades de sufrir Sindrome de Todd</string>
+    <string name="label_your_answer">Estas fueron sus respuestas:</string>
+    <string name="no_history_message">No se pudo encontrar respuesta anterior</string>
+    <string name="no_history_title">Respuesta no encontrada</string>
+    <string name="uncomplete_answer_message">Por favor rellene todo el cuestionario antes de continuar</string>
+    <string name="uncomplete_answer_title">Respuestas Faltante</string>
+    <string name="label_history">Respuesta Anterior</string>
+    <string name="alert_button">Accept</string>
+</resources>
