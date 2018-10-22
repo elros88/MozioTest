@@ -17,6 +17,7 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
+import com.android.antonio.pizzasdk.PizzaMainActivity;
 import com.example.antonio.moziotest.model.Answer;
 import com.example.antonio.moziotest.utils.Constants;
 import com.example.antonio.moziotest.utils.SharedPreferenceAccesor;
@@ -114,6 +115,15 @@ public class MainActivity extends AppCompatActivity
                 showAlert(getResources().getString(R.string.no_history_message).toString(),
                         getResources().getString(R.string.no_history_title).toString());
             }
+
+            return true;
+        }
+
+        if (id == R.id.action_pizza) {
+
+            Intent intent = new Intent(getApplicationContext(), PizzaMainActivity.class);
+
+            startActivity(intent);
 
             return true;
         }
